@@ -82,7 +82,7 @@ the 2-cycle gasoline engine patented by *George B. Selden*
 @snapend
 
 @snap[south-east span-50]
-@img(assets/img/GeorgeSelden.jpg)
+@img[](assets/img/GeorgeSelden.jpg)
 @snapend
 
 
