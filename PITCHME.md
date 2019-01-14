@@ -66,9 +66,9 @@ Access to the source code is a precondition for [1] and [3].
 
 +++
 ### Free and open-source software
-@ul
 ### Free, libre and open-source software
-'free as in speech' vs. 'free as in beer'
+@ul
+- 'free as in speech' vs. 'free as in beer'
 @ulend
 
 ---
