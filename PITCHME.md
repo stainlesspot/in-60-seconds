@@ -12,7 +12,7 @@ Deian Goranov 81705
 
 ## The Open Source Definition
 
-@ol
+@ul
 1. Free Redistribution
 
 2. Source Code
@@ -23,6 +23,8 @@ Deian Goranov 81705
 
 5. No Discrimination Against Persons or Groups
 
++++
+
 6. No Discrimination Against Fields of Endeavor
 
 7. Distribution of License
@@ -32,20 +34,20 @@ Deian Goranov 81705
 9. License Must Not Restrict Other Software
 
 10. License Must Be Technology-Neutral
-@olend
+@ulend
 
 +++
 
-### The Fre Software Definition
+### The Free Software Definition
 the Four Freedoms:
 @ul
-- The freedom to run the program as you wish, for any purpose (freedom 0).
+0. The freedom to run the program as you wish, for any purpose.
 
-- The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
+1. The freedom to study how the program works, and change it so it does your computing as you wish. Access to the source code is a precondition for this.
 
-- The freedom to redistribute copies so you can help your neighbor (freedom 2).
+2. The freedom to redistribute copies so you can help your neighbor (freedom 2).
 
-- The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+3. The freedom to distribute copies of your modified versions to others (freedom 3).
 @ulend
 
 ---
