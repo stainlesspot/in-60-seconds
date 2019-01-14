@@ -7,10 +7,10 @@ Deian Goranov 81705
 
 - the Open Source definition - as defined by the Open Source Initiative
 - the Free Software definition - as defined by the Free Software Foundation
+- FOSS and FLOSS
 
 +++
-
-## The Open Source Definition
+## Open Source Definition
 
 @ul
 - Free Redistribution
@@ -25,8 +25,7 @@ Deian Goranov 81705
 @ulend
 
 +++
-
-## The Open Source Definition
+## Open Source Definition
 
 @ul
 - No Discrimination Against Fields of Endeavor
@@ -41,8 +40,7 @@ Deian Goranov 81705
 @ulend
 
 +++
-
-## The Open Source Definition
+## Open Source Definition
 
 - Free Redistribution
 - Source Code
@@ -56,17 +54,21 @@ Deian Goranov 81705
 - License Must Be Technology-Neutral
 
 +++
-
-### The Free Software Definition
+### Free Software Definition
 the Four Freedoms:
 @ul
-- The freedom to run the program as you wish, for any purpose.
+- [0] The freedom to run the program as you wish, for any purpose.
+- [1] The freedom to study how the program works, and change it so it does your computing as you wish.
+- [2] The freedom to redistribute copies so you can help your neighbor.
+- [3] The freedom to distribute copies of your modified versions to others.
+@ulend
+Access to the source code is a precondition for [1] and [3].
 
-- The freedom to study how the program works, and change it so it does your computing as you wish. Access to the source code is a precondition for this.
-
-- The freedom to redistribute copies so you can help your neighbor (freedom 2).
-
-- The freedom to distribute copies of your modified versions to others (freedom 3).
++++
+# Free and open-source software
+# Free, libre and open-source software
+@ul
+'free as in speech' vs. 'free as in beer'
 @ulend
 
 ---
