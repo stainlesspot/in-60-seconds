@@ -42,16 +42,16 @@ Deian Goranov 81705
 +++
 ## Open Source Definition
 
-- Free Redistribution
-- Source Code
-- Derived Works
-- Integrity of The Author's Source Code
-- No Discrimination Against Persons or Groups
-- No Discrimination Against Fields of Endeavor
-- Distribution of License
-- License Must Not Be Specific to a Product
-- License Must Not Restrict Other Software
-- License Must Be Technology-Neutral
+1. Free Redistribution
+2. Source Code
+3. Derived Works
+4. Integrity of The Author's Source Code
+5. No Discrimination Against Persons or Groups
+6. No Discrimination Against Fields of Endeavor
+7. Distribution of License
+8. License Must Not Be Specific to a Product
+9. License Must Not Restrict Other Software
+10. License Must Be Technology-Neutral
 
 +++
 ### Free Software Definition - the four freedoms
@@ -77,22 +77,16 @@ Deian Goranov 81705
 @snap[west span-70]
 Monopoly in the automobile development - the _2-cycle_ gasoline engine patented by *George B. Selden*
 @snapend
-
 @snap[east span-30]
 @img[](assets/img/GeorgeSelden.jpg)
 @snapend
 +++
 @snap[north]
 ## Opposition
-@snapend
-@snap[west span-70]
 In 1911, Henry Ford challenges the Selden patent.
 <br />
 Motor Vehicle Manufacturers Association is formed.
-@snapend
-@snap[east span-30]
 @img[](assets/img/HenryFord.jpg)
-@snapend
 
 ---
 @title[Customize Slide Layout]
