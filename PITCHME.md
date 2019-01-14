@@ -1,9 +1,9 @@
-# Free and open-source software
+## Free and open-source software
 Deian Goranov 81705
 
 ---
 
-# Free and open-source software
+## Free and open-source software
 
 - the Open Source definition - as defined by the Open Source Initiative
 - the Free Software definition - as defined by the Free Software Foundation
