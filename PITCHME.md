@@ -1,13 +1,52 @@
-# Let's Get Started
-- maybe
-- not
-- so easy
+# Free and open-source software
+Deian Goranov 81705
 
 ---
 
-## Add Some Slide Candy
+## Free and open-source software
 
-![](assets/img/presentation.png)
+- the Open Source definition - as defined by the Open Source Initiative
+- the Free Software definition - as defined by the Free Software Foundation
+
++++
+
+## The Open Source Definition
+
+@ol
+1. Free Redistribution
+
+2. Source Code
+
+3. Derived Works
+
+4. Integrity of The Author's Source Code
+
+5. No Discrimination Against Persons or Groups
+
+6. No Discrimination Against Fields of Endeavor
+
+7. Distribution of License
+
+8. License Must Not Be Specific to a Product
+
+9. License Must Not Restrict Other Software
+
+10. License Must Be Technology-Neutral
+@olend
+
++++
+
+### The Fre Software Definition
+the Four Freedoms:
+@ul
+- The freedom to run the program as you wish, for any purpose (freedom 0).
+
+- The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
+
+- The freedom to redistribute copies so you can help your neighbor (freedom 2).
+
+- The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+@ulend
 
 ---
 @title[Customize Slide Layout]
