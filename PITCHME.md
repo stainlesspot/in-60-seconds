@@ -55,7 +55,7 @@ Deian Goranov 81705
 
 +++
 ### Free Software Definition - the four freedoms
-@ol
+@ol[start=0]
 - The freedom to run the program as you wish, for any purpose.
 - The freedom to study how the program works, and change it so it does your computing as you wish.
 - The freedom to redistribute copies so you can help your neighbor.
