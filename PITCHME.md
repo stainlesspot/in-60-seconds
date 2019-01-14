@@ -69,11 +69,11 @@ Deian Goranov 81705
 # History of
 # open-source
 +++
+@snap[north]
 ## Before software
+@snapend
 @snap[west span-70]
-Monopoly in the automobile development
-
-the _2-cycle_ gasoline engine patented by *George B. Selden*
+Monopoly in the automobile development - the _2-cycle_ gasoline engine patented by *George B. Selden*
 @snapend
 
 @snap[east span-30]
