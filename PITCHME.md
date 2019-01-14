@@ -65,8 +65,8 @@ the Four Freedoms:
 Access to the source code is a precondition for [1] and [3].
 
 +++
-# Free and open-source software
-# Free, libre and open-source software
+Free and open-source software
+Free, libre and open-source software
 @ul
 'free as in speech' vs. 'free as in beer'
 @ulend
