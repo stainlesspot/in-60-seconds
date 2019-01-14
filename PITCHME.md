@@ -87,7 +87,8 @@ Monopoly in the automobile development - the _2-cycle_ gasoline engine patented 
 - Motor Vehicle Manufacturers Association is formed.
 @ulend
 +++
-## Early development of software (1950s into early 1960s)
+## Early development of software
+## (1950s into early 1960s)
 @ul[](false)
 - Generally produced by academics or researchers working in collaboration.
 - The principles of opennes and co-operation, long established in the fields of academia.
@@ -104,44 +105,21 @@ In 1983, Richard Stallman launches the GNU Project
 - GNU Compiler Collection
 - GNU General Public License
 @ulend
-
++++
+## After 1980
+In 1991, Linus Torvalds releases the Linux kernel as freely modifiable source code.
+<br />
+In 1992 Linux gets relicensed under GNU GPL.
 ---
-@title[Customize Slide Layout]
-
-@snap[west span-50]
-## Customize Slide Content Layout
-@snapend
-
-@snap[east span-50]
-![](assets/img/presentation.png)
-@snapend
-
----?color=#E58537
-@title[Add A Little Imagination]
-
-@snap[north-west]
-#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
-@snapend
-
-@snap[west span-55]
-@ul[spaced text-white]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
+## The world of open-source
+@ul[](false)
+- Apache Software Foundation - httpd, ActiveMQ, Kafka, Lucene, Tomcat
+- Free Software Foundation - bash, emacs, gcc, gimp, wget
+- Linux Foundation - Linux, NodeJS, Let's encrypt
+- Software Freedom Conservancy - Boost, git, godot, coreboot, Samba
+- and many many more..
 @ulend
-@snapend
-
-@snap[east span-45]
-@img[shadow](assets/img/conference.png)
-@snapend
-
----?image=assets/img/presenter.jpg
-
-@snap[north span-100 headline]
-## Now It's Your Turn
-@snapend
-
-@snap[south span-100 text-06]
-[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
-@snapend
+---
+# Questions.
+---
+# Thank you.
