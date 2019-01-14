@@ -87,10 +87,22 @@ Monopoly in the automobile development - the _2-cycle_ gasoline engine patented 
 - Motor Vehicle Manufacturers Association is formed.
 @ulend
 +++
-## Early development in software
+## Early development of software (1950s into early 1960s)
 @ul[](false)
 - Generally produced by academics or researchers working in collaboration.
 - The principles of opennes and co-operation, long established in the fields of academia.
+@ulend
++++
+## Initial decline of free software (late 1960s, 1970s)
+As operating systems and compilers became more complicated, software became more expensive to produce.
+Restrictive licenses became the norm, with companies charging for software.
++++
+## After 1980
+In 1983, Richard Stallman launches the GNU Project
+@ul
+- GNU emacs
+- GNU Compiler Collection
+- GNU General Public License
 @ulend
 
 ---
