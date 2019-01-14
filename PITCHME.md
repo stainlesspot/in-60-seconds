@@ -87,9 +87,9 @@ Monopoly in the automobile development - the _2-cycle_ gasoline engine patented 
 * In 1911, Henry Ford challenges the Selden patent.
 * Motor Vehicle Manufacturers Association is formed.
 @snapend
-@span[east span-30]
+@snap[east span-30]
 @img[](assets/img/HenryFord.jpg)
-@spanend
+@snapend
 
 ---
 @title[Customize Slide Layout]
