@@ -13,15 +13,15 @@ Deian Goranov 81705
 ## The Open Source Definition
 
 @ul
-1. Free Redistribution
+- Free Redistribution
 
-2. Source Code
+- Source Code
 
-3. Derived Works
+- Derived Works
 
-4. Integrity of The Author's Source Code
+- Integrity of The Author's Source Code
 
-5. No Discrimination Against Persons or Groups
+- No Discrimination Against Persons or Groups
 @ulend
 
 +++
@@ -29,15 +29,15 @@ Deian Goranov 81705
 ## The Open Source Definition
 
 @ul
-6. No Discrimination Against Fields of Endeavor
+- No Discrimination Against Fields of Endeavor
 
-7. Distribution of License
+- Distribution of License
 
-8. License Must Not Be Specific to a Product
+- License Must Not Be Specific to a Product
 
-9. License Must Not Restrict Other Software
+- License Must Not Restrict Other Software
 
-10. License Must Be Technology-Neutral
+- License Must Be Technology-Neutral
 @ulend
 
 +++
@@ -45,13 +45,13 @@ Deian Goranov 81705
 ### The Free Software Definition
 the Four Freedoms:
 @ul
-0. The freedom to run the program as you wish, for any purpose.
+- The freedom to run the program as you wish, for any purpose.
 
-1. The freedom to study how the program works, and change it so it does your computing as you wish. Access to the source code is a precondition for this.
+- The freedom to study how the program works, and change it so it does your computing as you wish. Access to the source code is a precondition for this.
 
-2. The freedom to redistribute copies so you can help your neighbor (freedom 2).
+- The freedom to redistribute copies so you can help your neighbor (freedom 2).
 
-3. The freedom to distribute copies of your modified versions to others (freedom 3).
+- The freedom to distribute copies of your modified versions to others (freedom 3).
 @ulend
 
 ---
