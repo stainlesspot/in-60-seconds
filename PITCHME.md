@@ -55,10 +55,12 @@ Deian Goranov 81705
 
 +++
 ### Free Software Definition - the four freedoms
-@box[fragment](0. The freedom to run the program as you wish, for any purpose.)
-@box[fragment](1. The freedom to study how the program works, and change it so it does your computing as you wish.)
-@box[fragment](2. The freedom to redistribute copies so you can help your neighbor.)
-@box[fragment](3. The freedom to distribute copies of your modified versions to others.)
+<ol start="0">
+<li class="fragment">The freedom to run the program as you wish, for any purpose.</li>
+<li class="fragment">The freedom to study how the program works, and change it so it does your computing as you wish.</li>
+<li class="fragment">The freedom to redistribute copies so you can help your neighbor.</li>
+<li class="fragment">The freedom to distribute copies of your modified versions to others.</li>
+</ol>
 
 +++
 ### Free and open-source software
