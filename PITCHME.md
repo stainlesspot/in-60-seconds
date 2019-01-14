@@ -54,7 +54,8 @@ Deian Goranov 81705
 10. License Must Be Technology-Neutral
 
 +++
-### Free Software Definition - the four freedoms
+### Free Software Definition
+#### the four freedoms
 <ol start="0">
 <li class="fragment">The freedom to run the program as you wish, for any purpose.</li>
 <li class="fragment">The freedom to study how the program works, and change it so it does your computing as you wish.</li>
@@ -120,6 +121,6 @@ In 1992 Linux gets relicensed under GNU GPL.
 - and many many more..
 @ulend
 ---
-# Questions.
+# Questions?
 ---
 # Thank you.
