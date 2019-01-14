@@ -22,9 +22,13 @@ Deian Goranov 81705
 4. Integrity of The Author's Source Code
 
 5. No Discrimination Against Persons or Groups
+@ulend
 
 +++
 
+## The Open Source Definition
+
+@ul
 6. No Discrimination Against Fields of Endeavor
 
 7. Distribution of License
