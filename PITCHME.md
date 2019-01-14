@@ -42,6 +42,30 @@ Deian Goranov 81705
 
 +++
 
+## The Open Source Definition
+
+- Free Redistribution
+
+- Source Code
+
+- Derived Works
+
+- Integrity of The Author's Source Code
+
+- No Discrimination Against Persons or Groups
+
+- No Discrimination Against Fields of Endeavor
+
+- Distribution of License
+
+- License Must Not Be Specific to a Product
+
+- License Must Not Restrict Other Software
+
+- License Must Be Technology-Neutral
+
++++
+
 ### The Free Software Definition
 the Four Freedoms:
 @ul
